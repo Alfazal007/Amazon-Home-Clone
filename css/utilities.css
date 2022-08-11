@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.search input{
+    width : 48vw;
+    height: 8vh;
+    border-radius: 8px;
+    border: 1px solid black;
+    align-items: center;
+    position: relative;
+    top : -36px;
+}
+
+.search img{
+    position: relative;
+    top : 18.5px;
+    left : -21px;
+    width:10vh;
+     height:8vh; 
+}
